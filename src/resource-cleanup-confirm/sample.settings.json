@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SubscriptionId": "",
+    "ExpireTagKey": "",
+    "ExtendHours": "1",
+    "ResponseExpirationHours": "1",
+    "SendGridApiKey": "",
+    "FromEmail": ""
+  }
+}
